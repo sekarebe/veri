@@ -1,2 +1,2 @@
 # veri
-veri yapilaro
+veri yapilari ile alakali kod parcaciklari.
